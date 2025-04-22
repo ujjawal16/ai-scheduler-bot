@@ -37,15 +37,22 @@ flask_nylas/
 🔑 Environment Variables
 
 Create a .env file in the root directory with the following contents:
+
 NYLAS_CLIENT_ID=your_client_id
+
 NYLAS_CLIENT_SECRET=your_client_secret
+
 NYLAS_API_KEY=your_api_key
+
 NYLAS_API_URI=https://api.us.nylas.com
+
 
 🧪 Getting Started
 
 1. Clone the Repo
-git clone https://github.com/your-username/flask_nylas.git
+
+git clone https://github.com/{your-username}/flask_nylas.git
+
 cd flask_nylas
 
 2. Set Up Virtual Environment
